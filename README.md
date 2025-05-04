@@ -18,7 +18,7 @@ Algorithm to tweak database and teach SOLOv2 network to detect and segement adip
 
 %% Author notes:
 - Project is still work in progress
-- Once i find suitable computing power to train it, i will submit fully trained model, for now, its poorly trained just to see if algorithm works, as well as the result
+- Once i find suitable computing power to train it, i will submit ROI and results of fully trained model, for now, its poorly trained just to see if algorithm works, as well as the result (cannot submit trained model itself as its too big)
 - "mainv3" is the file that ought to be run to complete whole algorithm
 - "reworkDataSet" is the only other script (not a function) to crop images/masks to desired size, outside of "mainv3"
 
